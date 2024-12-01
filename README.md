@@ -7,7 +7,7 @@ Mostly written in Golang.
 
 | Problem | Subject | LC Link |
 |--|--|--|
-
+| [**Merge Strings Alternately**](Easy/merge-strings-alternately) | `two pointer`, `string` | [link](https://leetcode.com/problems/merge-strings-alternately/)|
 ---
 
 ## Medium
