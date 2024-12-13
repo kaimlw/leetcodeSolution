@@ -18,5 +18,5 @@ func kidsWithCandies(candies []int, extraCandies int) []bool {
 }
 
 func main() {
-
+	kidsWithCandies([]int{1,2,3,5}, 3)
 }
