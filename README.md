@@ -20,7 +20,7 @@ Mostly written in Golang.
 
 | Problem | Subject | LC Link |
 |--|--|--|
-
+| [**Reverse Words in a String**](Medium/reverse-words-in-string) | `string`, `two pointers` | [link](https://leetcode.com/problems/reverse-words-in-a-string/)|
 
 ---
 
