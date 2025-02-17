@@ -21,6 +21,7 @@ Mostly written in Golang.
 | Problem | Subject | LC Link |
 |--|--|--|
 | [**Reverse Words in a String**](Medium/reverse-words-in-string) | `string`, `two pointers` | [link](https://leetcode.com/problems/reverse-words-in-a-string/)|
+| [**Product of Array Except Self**](Medium/product-of-array-except-self) | `array`,  `prefix sum` | [link](https://leetcode.com/problems/product-of-array-except-self)|
 
 ---
 
